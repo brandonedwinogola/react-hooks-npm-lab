@@ -1,13 +1,13 @@
 {
-  "name": "color-clock",
-  "version": "1.0.0",
-  "main": "index.js",
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo 'Hello World!'",
-    "start": "serve"
-  },
-  "author": "",
-  "license": "ISC",
-  "description": ""
+    "name": "color-clock",
+    "version": "1.0.0",
+    "main": "index.js",
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo 'Hello World!'",
+        "start": "serve"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": ""
 }
